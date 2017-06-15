@@ -1,0 +1,35 @@
+body {
+	font-family: Helvetica;
+	color: black;
+	line-height: 13px;
+}
+
+em {
+	background: yellow;
+	color: black;
+}
+
+h1, h2, h3 {
+	background-color: #aaaaaa;
+	width: 500px;
+}
+
+h3{
+	margin-left: 30px;
+}
+
+li{
+	padding-left: 50px;
+	color: white;
+}
+
+
+ol{
+	width: 500px;
+	background-color: black;
+}
+
+.sidebar {
+	color: #ffff77;
+	background-color: #888888;
+}
