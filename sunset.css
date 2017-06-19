@@ -1,8 +1,11 @@
 body {
 	font-family: Helvetica;
 	color: black;
-	line-height: 13px;
 	background-color: #aaaaaa;
+}
+#p404 {
+	background-color: LightBlue;
+	margin: 0px 200px 0px; 
 }
 
 #navbar{
@@ -10,31 +13,46 @@ body {
 	
 }
 
+
 em {
 	background: yellow;
 	color: black;
 }
 
+h1 {
+	text-shadow: 1px 1px white;
+}
+
 h1, h2, h3 {
-	width: 500px;
+	margin: 0px auto 0px;
 }
 
 h3{
-	margin-left: 30px;
+	margin-left: 10px;
+	padding-left:100px;
 }
 
-li{
-	padding-left: 50px;
-	color: white;
+p {
+	padding-left:50px;
+}
+
+#centered {
+	text-align: center;
 }
 
 
 ol{
-	width: 500px;
+	width: 730px;
+	color: white;
+	margin-left: 50px;
 	background-color: black;
 }
 
 .sidebar {
+	font-size: 9px;
 	color: #ffff77;
 	background-color: #888888;
+	text-align: center;
 }
+
+
